@@ -10,7 +10,8 @@ wheels/
 .venv
 
 # Environment variables
-.env
 
 .pytest_cache
 pytestdebug.log
+config.bat
+node_modules
